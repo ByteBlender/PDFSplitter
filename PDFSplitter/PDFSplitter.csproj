@@ -45,6 +45,9 @@
     <Reference Include="fontbox-1.8.2, Version=1.8.2.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Pdfbox.1.1.1\lib\fontbox-1.8.2.dll</HintPath>
     </Reference>
+    <Reference Include="HelperLibrary">
+      <HintPath>\\Msol-p1\Groups\SCRIPTS\DotNetProgrammes\Source Code\helperlibrary\HelperLibrary\bin\Debug\HelperLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="icu4j-3.8, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Pdfbox.1.1.1\lib\icu4j-3.8.dll</HintPath>
     </Reference>
