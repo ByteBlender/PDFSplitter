@@ -10,7 +10,7 @@ using iTextSharp.text;
 using iTextSharp.text.pdf;
 using iTextSharp.text.pdf.parser;
 
-namespace PDFSplitter
+namespace PDFProcessor
 {
     class Program
     {

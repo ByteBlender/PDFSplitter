@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D88E1C59-BC7F-4B65-B4DF-BE735DD18848}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PDFSplitter</RootNamespace>
-    <AssemblyName>PDFSplitter</AssemblyName>
+    <RootNamespace>PDFProcessor</RootNamespace>
+    <AssemblyName>PDFProcessor</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
